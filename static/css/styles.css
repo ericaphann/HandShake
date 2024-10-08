@@ -1,0 +1,16 @@
+body {
+    padding-top: 60px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    padding: 50px;
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 20px;
+}
